@@ -1,8 +1,0 @@
-.idea
-.vscode
-build
-dist
-node_modules
-.env
-.env.development
-.env.production
