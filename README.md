@@ -3,7 +3,7 @@
 ## Building a Full Stack NEST + REACT Typescript Application Using CHAT GPT: An Intern's Guide
 From the series: No-Code Code
 
-This project was developed as part of the book "Building a Full Stack NEST + REACT Typescript Application Using CHAT GPT: An Intern's Guide". The book guides the reader through the process of building this application, teaching the reader important concepts and best practices for Full Stack web development along the way.
+This project was developed as part of the book **Building a Full Stack NEST + REACT Typescript Application Using CHAT GPT: An Intern's Guide**. The book guides the reader through the process of building this application, teaching the reader important concepts and best practices for Full Stack web development along the way.
 
 This project is a Full Stack web application called the "Products App" built using React, NestJS, TypeScript, and MySQL Workbench.
 
