@@ -6,19 +6,19 @@
 
 - **Chapter 1: Introduction to Chat GPT and How it works.**
     
-    [Tutorials](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/Tutorials%209a964206d9a3415ebc6afbd34379907b.md)
+    [Tutorials](The%20Ultimate%20Chat%20GPT%20Course/Tutorials.md)
     
 - **Chapter 2: How Chat GPT is giving competition to regular search engines?**
     
-    [Tutorials](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/Tutorials%20cfe1ad436d5e4faa907be01522b91ed9.md)
+    [Tutorials](The%20Ultimate%20Chat%20GPT%20Course%/Tutorials.md)
     
 - **Chapter 3: How to use Chat GPT and it's features.**
     
-    [Guidance](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/Guidance%20b5268e7eb5cb47529d1911a8bbbe04b4.md)
+    [Guidance](The%20Ultimate%20Chat%20GPT%20Course/Guidance.md)
     
 - **Chapter 4: How you can create your own Chat GPT.**
     
-    [Advance Level ](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/Advance%20Level%20fa9462c83f644992aa4159d55c1ccbc1.md)
+    [Advance Level ](The%20Ultimate%20Chat%20GPT%20Course/Advance%20Level.md)
     
 - **Chapter 5: 11 ways to use Chat GPT for your business**
     
@@ -78,7 +78,7 @@
     
 - **Chapter 20: Chat GPT Chrome extension for tweets.**
     
-    [[https://github.com/yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT)](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/https%20github%20com%20yaroslav-n%20tweetGPT%2042bc20fae1f34794b70fd348942e821b.md)
+    [[https://github.com/yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT)](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/https%20github%20com%20yaroslav-n.md)
     
 - **Chapter 21: How to get benefit of Chat GPT as a Digital Creator.**
     
@@ -106,7 +106,7 @@
     
 - **Chapter 27: List of some Amazing Chat GPT Prompts.**
     
-    [**ChatGPT GitHub Repository for Prompts**](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/ChatGPT%20GitHub%20Repository%20for%20Prompts%2029154386f1cf434ab5d3fb14a04812ab.md)
+    [**ChatGPT GitHub Repository for Prompts**](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/ChatGPT%20GitHub%20Repository%20for%20Prompts.md)
     
 - **Chapter 28: 10 best AI businesses to start with Chat GPT.**
     
@@ -118,15 +118,15 @@
     
 - **Chapter 30: How to Make money with Chat GPT:**
     
-    [****How To Make Money Online With AI Chatbot ([link](https://www.youtube.com/watch?v=hvW0kI1pJM8))**](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/How%20To%20Make%20Money%20Online%20With%20AI%20Chatbot%20(link)%209977d713380a4b468c749f67b7a6d56b.md)
+    [****How To Make Money Online With AI Chatbot ([link](https://www.youtube.com/watch?v=hvW0kI1pJM8))**](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/How%20To%20Make%20Money%20Online%20With%20AI%20Chatbot%20(link).md)
     
-    [****How To Use Chat GPT To Make Money Online ([link](https://www.youtube.com/watch?v=Rds117xtPmE))**](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/How%20To%20Use%20Chat%20GPT%20To%20Make%20Money%20Online%20(link)%20d0790ed97988403c894aa186e6bd601a.md)
+    [****How To Use Chat GPT To Make Money Online ([link](https://www.youtube.com/watch?v=Rds117xtPmE))**](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/How%20To%20Use%20Chat%20GPT%20To%20Make%20Money%20Online%20(link).md)
     
-    [****Laziest Way To Make Money With ChatGPT ([link](https://www.youtube.com/watch?v=nqsu4d7K8qY))**](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/Laziest%20Way%20To%20Make%20Money%20With%20ChatGPT%20(link)%2086484c8e72214c7aa723e1407b21994c.md)
+    [****Laziest Way To Make Money With ChatGPT ([link](https://www.youtube.com/watch?v=nqsu4d7K8qY))**](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/Laziest%20Way%20To%20Make%20Money%20With%20ChatGPT%20(link))
     
-    [****How To Use ChatGPT To Make $100+ a Day ([link](https://www.youtube.com/watch?v=88Je0jdiAok))**](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/How%20To%20Use%20ChatGPT%20To%20Make%20$100+%20a%20Day%20(link)%20cedc1382879740858d26da9ed6415f12.md)
+    [****How To Use ChatGPT To Make $100+ a Day ([link](https://www.youtube.com/watch?v=88Je0jdiAok))**](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/How%20To%20Use%20ChatGPT%20To%20Make%20$100+%20a%20Day%20(link))
     
-    [****How To Make Passive Income With ChatGPT AI ([link](https://www.youtube.com/watch?v=noHrqTW_MZE))**](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/How%20To%20Make%20Passive%20Income%20With%20ChatGPT%20AI%20(link)%20392a7f9dedcb4499ad6b6988c18db58c.md)
+    [****How To Make Passive Income With ChatGPT AI ([link](https://www.youtube.com/watch?v=noHrqTW_MZE))**](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/How%20To%20Make%20Passive%20Income%20With%20ChatGPT%20AI%20(link))
     
 - **Chapter 31: All the best example of Chat GPT.**
     
@@ -142,7 +142,7 @@
     
     - **Chapter 36: Create Facebook and Google Ads**
         
-        [ChatGPT for Facebook & Google Ads.](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/ChatGPT%20for%20Facebook%20&%20Google%20Ads%20e63d511decf84a7a8429325ef21f73be.md)
+        [ChatGPT for Facebook & Google Ads.](The%20Ultimate%20Chat%20GPT%20Course%206e3576df8e3b4681a0fdbe96f2f083e7/ChatGPT%20for%20Facebook%20&%20Google%20Ads.md)
         
 - **Chapter 34: Awesome Chat GPT Prompts.**
     
