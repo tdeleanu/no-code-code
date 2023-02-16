@@ -10,9 +10,9 @@ This folder is intended to provide a valuable resource for both educational and 
 # Create a Full Stack App using ChatGPT Prompts:
 ## II. Setting up the Development Environment
 #### A. Installing Required Software
-1. "Explain the process for installing the required software for setting up the development environment for a full stack NEST + REACT typescript application."
+**Prompt**: "Explain the process for installing the required software for setting up the development environment for a full stack NEST + REACT typescript application."
 #### B. Configuring the Workspace
-2. "Please provide step-by-step instructions on how to configure the workspace for building a full stack application using React, NestJS, TypeScript, and MySQL. Include any necessary configuration files, settings, or environment variables that need to be set up."
+**Prompt**: "Please provide step-by-step instructions on how to configure the workspace for building a full stack application using React, NestJS, TypeScript, and MySQL. Include any necessary configuration files, settings, or environment variables that need to be set up."
 
 
 
