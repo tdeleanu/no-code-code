@@ -27,11 +27,29 @@ This folder is intended to provide a valuable resource for both educational and 
 **Prompt**: "Using TypeORM, tie the backend to MySQL Workbench by configuring the TypeORM connection options in the app.module.ts file."
 ### D. Defining Data Models
 **Prompt**: "Define a data model for the Product entity with the following fields: id as primary key with auto-increment, name as string, description as text, price as decimal, and createdAt and updatedAt as timestamps."
-## IV. Building the Front-end with REACT
+## III. Building the Front-end with REACT
 ### A. Introduction to REACT
 **Prompt**: "Explain what is React and why it is popular for building web applications."
 ### B. Setting up the Project Structure
 **Prompt**: "Describe the steps to set up the project structure for a REACT app. Include details on how to create and organize the file structure, set up the development environment, and install the necessary packages and dependencies."
+### C. Implementing User Interfaces
+**Prompts**: 
+"How can you create a React component in Typescript?"
+"What is JSX in React and how does it work?"
+"What are props in React and how are they used to pass data between components?"
+"How can you use state in a React component and what is the difference between state and props?"
+"What are React hooks and how can you use them in your components?"
+"How can you style a React component using CSS?"
+"What is responsive design and how can you make your React app responsive?"
+### D. Integrating with the Back-end
+**Prompt**: "Generate a code snippet to make an API call to the NestJS back-end from the React front-end using the Axios library."
+## IV. Deploying the Application
+### A. Introduction to Deployment
+**Prompt**: "What are some common strategies for deploying a full-stack application, and how do they differ in terms of cost, scalability, and ease of use? How can you choose the right deployment strategy for your application, and what factors should you consider when making this decision?"
+### B. Deploying the Back-end to a Server
+**Prompt**: "I need to deploy the back-end to a server. Which AWS services are suitable for deploying NestJS applications and how can we use them to simplify the deployment process?"
+### C. Deploying the Front-end to a Web Host
+**Prompt**: "I need to deploy the front-end to a web host. How can I use the Amazon CloudFront and Route 53 in order to simplify the deployment process?"
 # Usage
 Feel free to use and modify any of the prompts or resources provided in this folder for your own projects or research. If you would like to contribute, please submit a pull request with your changes.
 
