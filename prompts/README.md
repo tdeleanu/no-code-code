@@ -8,21 +8,23 @@ ChatGPT is an autoregressive language model based on the GPT architecture, train
 This folder is intended to provide a valuable resource for both educational and research purposes related to ChatGPT and prompt engineering. It contains various prompts that can be used to generate different types of text, as well as recent papers and learning guides that can help you deepen your knowledge of the field.
 
 # Create a Full Stack App using ChatGPT Prompts:
-## II. Setting up the Development Environment
+## I. Setting up the Development Environment
 ### A. Installing Required Software
 **Prompt**: "Explain the process for installing the required software for setting up the development environment for a full stack NEST + REACT typescript application."
 ### B. Configuring the Workspace
 **Prompt**: "Please provide step-by-step instructions on how to configure the workspace for building a full stack application using React, NestJS, TypeScript, and MySQL. Include any necessary configuration files, settings, or environment variables that need to be set up."
-## III. Building the Back-end with NEST JS
+## II. Building the Back-end with NEST JS
 ### A. Introduction to NESTJS
 **Prompts**: 
-1. What is NESTJS and what are its main features?
-2. What are some advantages of using NESTJS for building back-end applications?
-3. What are the different types of modules in NESTJS and what are their roles?
-4. How does NESTJS utilize dependency injection and what are the benefits of using it?
-5. How can you create controllers and services in NESTJS and what is their relationship?
-
-
+1. "What is NESTJS and what are its main features?"
+2. "What are some advantages of using NESTJS for building back-end applications?"
+3. "What are the different types of modules in NESTJS and what are their roles?"
+4. "How does NESTJS utilize dependency injection and what are the benefits of using it?"
+5. "How can you create controllers and services in NESTJS and what is their relationship?"
+### B. Setting up the Project Structure
+**Prompt**: "Using NEST CLI, create a new NEST project with the name 'products-api'. Then, create a 'src' folder in the root of the project and add an 'app.module.ts' file to it. Inside the 'app.module.ts' file, import the 'Module' class from the '@nestjs/common' package and create a new module with the decorator '@Module'."
+### C. Creating the Database Connection
+**Prompt**: 
 # Usage
 Feel free to use and modify any of the prompts or resources provided in this folder for your own projects or research. If you would like to contribute, please submit a pull request with your changes.
 
