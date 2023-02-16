@@ -24,7 +24,14 @@ This folder is intended to provide a valuable resource for both educational and 
 ### B. Setting up the Project Structure
 **Prompt**: "Using NEST CLI, create a new NEST project with the name 'products-api'. Then, create a 'src' folder in the root of the project and add an 'app.module.ts' file to it. Inside the 'app.module.ts' file, import the 'Module' class from the '@nestjs/common' package and create a new module with the decorator '@Module'."
 ### C. Creating the Database Connection
-**Prompt**: 
+**Prompt**: "Using TypeORM, tie the backend to MySQL Workbench by configuring the TypeORM connection options in the app.module.ts file."
+### D. Defining Data Models
+**Prompt**: "Define a data model for the Product entity with the following fields: id as primary key with auto-increment, name as string, description as text, price as decimal, and createdAt and updatedAt as timestamps."
+## IV. Building the Front-end with REACT
+### A. Introduction to REACT
+**Prompt**: "Explain what is React and why it is popular for building web applications."
+### B. Setting up the Project Structure
+**Prompt**: "Describe the steps to set up the project structure for a REACT app. Include details on how to create and organize the file structure, set up the development environment, and install the necessary packages and dependencies."
 # Usage
 Feel free to use and modify any of the prompts or resources provided in this folder for your own projects or research. If you would like to contribute, please submit a pull request with your changes.
 
