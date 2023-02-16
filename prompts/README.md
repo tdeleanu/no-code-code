@@ -34,13 +34,11 @@ This folder is intended to provide a valuable resource for both educational and 
 **Prompt**: "Describe the steps to set up the project structure for a REACT app. Include details on how to create and organize the file structure, set up the development environment, and install the necessary packages and dependencies."
 ### C. Implementing User Interfaces
 **Prompts**: 
-"How can you create a React component in Typescript?"
-"What is JSX in React and how does it work?"
-"What are props in React and how are they used to pass data between components?"
-"How can you use state in a React component and what is the difference between state and props?"
-"What are React hooks and how can you use them in your components?"
-"How can you style a React component using CSS?"
-"What is responsive design and how can you make your React app responsive?"
+1. "How can you create a React component in Typescript?"
+2. "What is JSX in React and how does it work?"
+3. "What are props in React and how are they used to pass data between components?"
+4. "How can you use state in a React component and what is the difference between state and props?"
+5. "What are React hooks and how can you use them in your components?"
 ### D. Integrating with the Back-end
 **Prompt**: "Generate a code snippet to make an API call to the NestJS back-end from the React front-end using the Axios library."
 ## IV. Deploying the Application
