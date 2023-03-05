@@ -44,4 +44,37 @@ More Information To learn more about the technologies used in this project, plea
 
 According to recent studies, users who utilize ChatGPT to aid in their learning experience have seen a 30% increase in their learning speed over a period of 90 days. With ChatGPT, you can ask questions, get immediate feedback, and receive personalized recommendations to help you learn more efficiently. Start using ChatGPT today and see the difference it can make in your learning journey.
 
+# Learn to Build a React Full Stack App with ChatGPT in 90 Days
+
+Are you interested in building a full stack web application using React, NestJS, and ChatGPT but don't know where to start? No worries, we've got you covered!
+
+With our 90-day learning plan, you can quickly and efficiently learn the skills needed to build a robust full stack web application. Our plan includes a combination of online courses, tutorials, and hands-on coding projects that will take you from beginner to intermediate level in just 90 days.
+
+Here's a breakdown of what you can expect to learn each month:
+
+## Month 1: Getting Started with React and NestJS
+
+-   Introduction to React and NestJS
+-   Setting up your development environment
+-   Building a basic React component
+-   Creating a NestJS server and RESTful APIs
+-   Connecting your React frontend with your NestJS backend
+
+## Month 2: Advanced React and NestJS Concepts
+
+-   Working with state and props in React
+-   Advanced React concepts like hooks and context
+-   NestJS middleware and decorators
+-   Using databases with NestJS (e.g. MySQL, MongoDB)
+-   Deploying your application to a cloud platform (e.g. Heroku, AWS)
+
+## Month 3: Building a Chatbot with ChatGPT
+
+-   Introduction to natural language processing and ChatGPT
+-   Integrating ChatGPT into your full stack application
+-   Building a chatbot that can answer user queries and provide recommendations
+-   Testing and deploying your chatbot to production
+
+By following our 90-day plan, you'll gain a solid understanding of React, NestJS, and ChatGPT, and be able to confidently build a full stack web application with these technologies. So what are you waiting for? Let's start building!
+
 License This project is licensed under the Creative Commons Attribution 4.0 International License.
