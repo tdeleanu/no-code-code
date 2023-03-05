@@ -8,7 +8,9 @@ From the series: No-Code Code
 Here's how you can help:
 
 > 🚗 ** Get the book at v0.1 and review with 5 🌟 :** [https://iamteo.gumroad.com/l/chat-gpt-full-stack-intern/446hqdp?_gl=1*1hy5y8w*_ga*NjU5MDU5ODI3LjE2Nzc3OTA1OTE.*_ga_6LJN6D94N6*MTY3Nzk3NDU1Ny45LjEuMTY3Nzk3NjU0Ni4wLjAuMA..]
-> 📖 **Get early access to the book and contribute:** [https://docs.google.com/document/d/1tx4G-nzT\_5TvXZwEAC4KUqAeLLpAISHHWd6wTb0qJu8/edit](https://docs.google.com/document/d/1tx4G-nzT_5TvXZwEAC4KUqAeLLpAISHHWd6wTb0qJu8/edit)
+
+> 📖 ** Get early access to the book and contribute:** [https://docs.google.com/document/d/1tx4G-nzT\_5TvXZwEAC4KUqAeLLpAISHHWd6wTb0qJu8/edit](https://docs.google.com/document/d/1tx4G-nzT_5TvXZwEAC4KUqAeLLpAISHHWd6wTb0qJu8/edit)
+
 
 Are you looking to build Full Stack web applications without having to write a lot of code? Look no further than No Code Code! Our project combines the power of NestJS, React, Node.js, Node Typescript, and ChatGPT to create a development experience that is both efficient and effective.
 
@@ -16,15 +18,15 @@ With our project, you can build applications quickly and easily, while still gai
 
 Installation To get started, you will need to have Node.js and Node Typescript installed on your computer. Once you have those installed, simply clone the repository, navigate to the project directory, and run the following command:
 
-```
-Copy codenpm install
+```shell
+npm install
 
 ```
 
 Usage To start the development server, use the following command:
 
-```
-sqlCopy codenpm run start
+```shell
+npm run start
 
 ```
 
