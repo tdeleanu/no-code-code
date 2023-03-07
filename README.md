@@ -62,7 +62,7 @@ Are you interested in building a full stack web application using React, NestJS,
 
 With our 90-day learning plan, you can quickly and efficiently learn the skills needed to build a robust full stack web application. Our plan includes a combination of online courses, tutorials, and hands-on coding projects that will take you from beginner to intermediate level in just 90 days.
 
-Here's a breakdown of what you can expect to learn each month:
+Here's a breakdown of what you can expect to learn each month on our Discord channel: 
 
 ## Month 1: Getting Started with React and NestJS
 
