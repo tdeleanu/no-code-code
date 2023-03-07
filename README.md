@@ -31,7 +31,7 @@ npm run start
 ```
 
 ## Contributing 
-We welcome contributions from the community! If you'd like to contribute to this project, please read our contribution guidelines and submit a pull request.
+We welcome contributions from the community! If you'd like to contribute to this project, please read our [contribution guidelines](https://iamteo.gumroad.com/l/chat-gpt-full-stack-intern/446hqdp?_gl=1*1hy5y8w*_ga*NjU5MDU5ODI3LjE2Nzc3OTA1OTE.*_ga_6LJN6D94N6*MTY3Nzk3NDU1Ny45LjEuMTY3Nzk3NjU0Ni4wLjAuMA..) and submit a pull request.
 
 
 ## Questions
