@@ -30,7 +30,19 @@ npm run start
 
 ```
 
-Contributing We welcome contributions from the community! If you'd like to contribute to this project, please read our contribution guidelines and submit a pull request.
+## Contributing 
+We welcome contributions from the community! If you'd like to contribute to this project, please read our contribution guidelines and submit a pull request.
+
+
+## Questions
+For questions and support please use the official Discord channel(To be sent to you after you [get the book on gumroad](https://iamteo.gumroad.com/l/chat-gpt-full-stack-intern/446hqdp?_gl=1*1hy5y8w*_ga*NjU5MDU5ODI3LjE2Nzc3OTA1OTE.*_ga_6LJN6D94N6*MTY3Nzk3NDU1Ny45LjEuMTY3Nzk3NjU0Ni4wLjAuMA..)). The issue list of this repo is exclusively for bug reports and feature requests.
+
+## Issues
+Please make sure to read the Issue Reporting Checklist before [opening an issue](https://github.com/tdeleanu/no-code-code/issues). Issues not conforming to the guidelines(guideliness in progress) may be closed immediately.
+
+## Consulting
+With official support, you can get expert help straight from Nest core team. We provide dedicated technical support, migration strategies, advice on best practices (and design decisions), PR reviews, and team augmentation. [Read more about support here](https://iamteo.gumroad.com/l/chat-gpt-full-stack-intern/446hqdp?_gl=1*1hy5y8w*_ga*NjU5MDU5ODI3LjE2Nzc3OTA1OTE.*_ga_6LJN6D94N6*MTY3Nzk3NDU1Ny45LjEuMTY3Nzk3NjU0Ni4wLjAuMA..).
+
 
 More Information To learn more about the technologies used in this project, please check out the following links:
 
