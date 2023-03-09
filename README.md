@@ -35,7 +35,7 @@ We welcome contributions from the community! If you'd like to contribute to this
 
 
 ## Questions
-For questions and support please use the official [Discord channel](https://discordapp.com/channels/715513659237072916/1083178073677119488)). The issue list of this repo is exclusively for bug reports and feature requests.
+For questions and support please use the official [Discord channel](https://discordapp.com/channels/715513659237072916/1083178073677119488). The issue list of this repo is exclusively for bug reports and feature requests.
 
 ## Issues
 Please make sure to read the Issue Reporting Checklist before [opening an issue](https://github.com/tdeleanu/no-code-code/issues). Issues not conforming to the guidelines(guideliness in progress) may be closed immediately.
